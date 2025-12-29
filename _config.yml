@@ -1,0 +1,38 @@
+title: Gayathri Polubothu
+email: gayathri.polubothu@gmail.com
+description: >-
+  Software Engineer | Full Stack Developer | Cloud & Distributed Systems
+  Building scalable solutions with modern technologies
+baseurl: ""
+url: "https://gayathri-polubothu.github.io"
+twitter_username: ""
+github_username: gayathri-polubothu
+linkedin_username: gayathri-polubothu
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Exclude from processing
+exclude:
+  - .gitignore
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - _CV.pdf
+
+# Pagination
+pagination:
+  enabled: true
+  per_page: 5
+  permalink: /page/:num/
+  title: Posts - Page :num
+
+# Markdown processor
+markdown: kramdown
