@@ -13,7 +13,6 @@ linkedin_username: gayathri-polubothu
 theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-sitemap
 
 # Exclude from processing
 exclude:
