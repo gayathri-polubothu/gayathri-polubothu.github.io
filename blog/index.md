@@ -17,8 +17,6 @@ Welcome to my blog! Here I share insights, tutorials, and thoughts on software e
 
 {{ post.excerpt }}
 
-[Read More →]({{ post.url }})
-
 ---
 
 {% endfor %}
