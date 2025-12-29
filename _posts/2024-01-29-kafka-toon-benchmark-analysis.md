@@ -6,8 +6,6 @@ categories: kafka performance distributed-systems
 excerpt: "Deep dive into comparing TOON binary format vs JSON for Kafka message encoding. Includes real benchmarks, analysis, and insights on performance optimization for high-throughput systems."
 ---
 
-# Kafka-TOON Benchmark Tool: Performance Analysis of Message Encoding Formats
-
 ## Overview
 
 In modern distributed systems, message encoding format is crucial for performance. This article explores the **Kafka-TOON Benchmark Tool** — a comprehensive framework for comparing different message encoding strategies and their impact on throughput, latency, and bandwidth.
